@@ -1,0 +1,11 @@
+C:\Users\SASSISirine\source\repos\VendingMachineProject\VendingMachineProject\VendingMachineProject\bin\Debug\netcoreapp2.1\VendingMachineProject.deps.json
+C:\Users\SASSISirine\source\repos\VendingMachineProject\VendingMachineProject\VendingMachineProject\bin\Debug\netcoreapp2.1\VendingMachineProject.runtimeconfig.json
+C:\Users\SASSISirine\source\repos\VendingMachineProject\VendingMachineProject\VendingMachineProject\bin\Debug\netcoreapp2.1\VendingMachineProject.runtimeconfig.dev.json
+C:\Users\SASSISirine\source\repos\VendingMachineProject\VendingMachineProject\VendingMachineProject\bin\Debug\netcoreapp2.1\VendingMachineProject.dll
+C:\Users\SASSISirine\source\repos\VendingMachineProject\VendingMachineProject\VendingMachineProject\bin\Debug\netcoreapp2.1\VendingMachineProject.pdb
+C:\Users\SASSISirine\source\repos\VendingMachineProject\VendingMachineProject\VendingMachineProject\obj\Debug\netcoreapp2.1\VendingMachineProject.csproj.CoreCompileInputs.cache
+C:\Users\SASSISirine\source\repos\VendingMachineProject\VendingMachineProject\VendingMachineProject\obj\Debug\netcoreapp2.1\VendingMachineProject.AssemblyInfoInputs.cache
+C:\Users\SASSISirine\source\repos\VendingMachineProject\VendingMachineProject\VendingMachineProject\obj\Debug\netcoreapp2.1\VendingMachineProject.AssemblyInfo.cs
+C:\Users\SASSISirine\source\repos\VendingMachineProject\VendingMachineProject\VendingMachineProject\obj\Debug\netcoreapp2.1\VendingMachineProject.dll
+C:\Users\SASSISirine\source\repos\VendingMachineProject\VendingMachineProject\VendingMachineProject\obj\Debug\netcoreapp2.1\VendingMachineProject.pdb
+C:\Users\SASSISirine\source\repos\VendingMachineProject\VendingMachineProject\VendingMachineProject\obj\Debug\netcoreapp2.1\VendingMachineProject.csprojAssemblyReference.cache
